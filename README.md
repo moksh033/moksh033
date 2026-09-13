@@ -108,8 +108,6 @@
 
 <h2>Connect with me</h2>
 
-<p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
-
 <p align="center">
   <a href="https://linkedin.com/in/moksh-srivastava" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/moksh%20srivastava" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
@@ -118,8 +116,4 @@
   <a href="https://www.codechef.com/users/moksh033" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/moksh033" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/moksh033" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/moksh033">GitHub</a> &nbsp;&bull;&nbsp; <a href="https://www.linkedin.com/in/moksh-srivastava">LinkedIn</a> &nbsp;&bull;&nbsp; <a href="https://leetcode.com/moksh033">LeetCode</a>
 </p>
