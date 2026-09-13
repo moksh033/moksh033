@@ -8,6 +8,13 @@
   <img src="https://www.gitskins.com/api/section/system-scan?username=moksh033&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F231632395%3Fu%3D8097619ad3d5891d31cd54edd7ecf95c3d7ef9af%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="Moksh Srivastava animated maintainer system scan" />
 </picture>
 </p>
+
+<p align="center">
+  <a href="https://github.com/moksh033">
+    <img src="https://komarev.com/ghpvc/?username=moksh033&color=0ea5e9" alt="Profile views" />
+  </a>
+</p>
+
 </div>
 
 <h2>Why I build in public</h2>
@@ -27,14 +34,19 @@
 <p><code>moksh033@github ~ $ toolbox --list</code></p>
 
 <p align="center">
-  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java_21+-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /></a>
-  <img src="https://img.shields.io/badge/POSIX_/_Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
 </p>
 
 <table width="100%">
@@ -77,6 +89,12 @@
 </tr>
 </table>
 
+<h2>Contribution activity</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=moksh033&theme=dark&hide_border=false" alt="Moksh Srivastava GitHub Streak Stats" />
+</p>
+
 <h2>Contribution trail</h2>
 
 <p align="center">
@@ -88,16 +106,20 @@
 
 <hr />
 
-<h2>Contribute together</h2>
+<h2>Connect with me</h2>
 
 <p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
 
 <p align="center">
-  <a href="https://github.com/moksh033"><img src="https://img.shields.io/badge/GitHub-moksh033-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/moksh-srivastava"><img src="https://img.shields.io/badge/LinkedIn-Moksh_Srivastava-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/moksh-srivastava" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/moksh%20srivastava" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
+  <a href="https://kaggle.com/mokshsrivastava" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+  <a href="https://instagram.com/moksh033" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/moksh033" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/moksh033" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/moksh033" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/moksh033">GitHub</a> &nbsp;&bull;&nbsp; <a href="https://www.linkedin.com/in/moksh-srivastava">LinkedIn</a>
+  <a href="https://github.com/moksh033">GitHub</a> &nbsp;&bull;&nbsp; <a href="https://www.linkedin.com/in/moksh-srivastava">LinkedIn</a> &nbsp;&bull;&nbsp; <a href="https://leetcode.com/moksh033">LeetCode</a>
 </p>
